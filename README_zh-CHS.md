@@ -1,1 +1,1 @@
-
+silkOS是来自中国的开源linux发行版，基于jingOS（即将加入cutefishOS）打造成个人电脑上的Linux发行版，当前目标是：可运行、在x86平台运行arm，
